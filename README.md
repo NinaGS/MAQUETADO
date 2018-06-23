@@ -4,7 +4,6 @@
   - Sección "Header" donde se mostrará un título y una foto de fondo.
   - Sección "Texto" donde muestre el artículo relacionado al título.
   - Sección "Contancto" donde muestre el contacto de la persona que escribe el artículo.
-  - Sección "Compra" donde se debe dar énfasis a la compra de sus productos.
   - La página debe ser responsiva.
 
 ## -Requisitos específicos
