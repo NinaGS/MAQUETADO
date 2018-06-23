@@ -47,13 +47,16 @@
 
 ## Mockup del sitio entregado por el cliente
 
-#### Diseño para Desktop
+
+
+## Diseño para Desktop
 
 ![](assets/mockup/barbershop-desktop.png)
 
 
 
-#### Diseño para dispositivos móviles
+
+## Diseño para dispositivos móviles
 
 ![](assets/mockup/barbershop-mobile.png)
 
