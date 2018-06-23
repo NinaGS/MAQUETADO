@@ -33,6 +33,7 @@
 - Sección Texto
  - clase fecha-calendar para sección general
  - clase fecha y clase calendar
+ - clase text-all para todo el artículo
  - clase iconos para los íconos interactivos
 - Sección Contatcto
  - clase naomi
