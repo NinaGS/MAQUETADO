@@ -1,3 +1,6 @@
+ https://ninags.github.io/MAQUETADO/.
+ 
+# Barbershop
 
 ## -Requisitos generales
  - Una barra de navegación y un footer. Cada uno mostrando el logo.  - Cuatro secciones definiendo el nombre de las clases:
